@@ -12,3 +12,6 @@ A curated list of awesome Go frameworks, libraries, software and resources.
     - [🔌 API Handling](#-api-handling)
 
 ### 🔌 API Handling
+- [Fiber](https://docs.gofiber.io/) - An Express.js inspired web framework built on Fasthttp.
+- [Gin](https://github.com/gin-gonic/gin) - A HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need performance and good productivity.
+- [Mux](https://github.com/gorilla/mux) - A powerful HTTP router and URL matcher for building Go web servers with 🦍.
