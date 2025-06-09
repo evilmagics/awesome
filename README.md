@@ -31,6 +31,12 @@
 
 ## 🤝 Contributing
 Feel free to contribute by submitting a pull request with your additions.
+1. Clone the repository.
+2. Create a new branch for your changes named "requests-[title]".
+3. Edit  the `README.md` file in the `requests` branch.
+4. Pull request to the `requests` branch.
+5. Waiting validation from the administrator of the repository.
+6. Your changes will be merged into the main branch.
 
 ## 📄 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
