@@ -1,0 +1,66 @@
+name: New Tool List
+description: Add a new list to awesome tools for software developers.
+title: "[New Tool]: "
+labels: ["enchancement"]
+assignees:
+  - evilmagics
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Tell world your favorite or useful tools, libraries, frameworks, or any other tools that you think are awesome.
+  - type: input
+    id: tool-name
+    attributes:
+      label: Tool Name
+      description: What is the name of your tool?
+      placeholder: "Ex: Postman"
+    validations:
+      required: true
+  - type: dropdown
+    id: tool-type
+    attributes:
+      label: Tool Type
+      description: |
+        Type helps categorize tools based on their usage scope:
+
+        - "Essentials": For general-purpose tools that are fundamental and widely used across different programming languages and development tasks
+        - "Specific Language": For tools that are designed specifically for or primarily used with certain programming languages
+      multiple: false
+      default: 0
+      options:
+        - Essentials
+        - Specific Language
+    validations:
+      required: true
+  - type: input
+    id: tool-category
+    attributes:
+      label: Category
+      description: |
+        Type helps categorize tools based on their functionality or purpose. 
+        These categories can vary depending on the context and the specific tools being categorized.
+        Multiple categories separated by commas. Use maximum 3 categories.
+      placeholder: API Management
+    validations:
+      required: true
+  - type: textarea
+    id: tool-url
+    attributes:
+      label: URL
+      description: |
+        The URL of the tool. Please provide the URL of the tool. 
+        If the tool is not available online, please provide a link to the tool's documentation or source code repository.
+      placeholder: "Ex: https://www.postman.com/"
+    validations:
+      required: true
+  - type: textarea
+    id: tool-language
+    attributes:
+      label: Language *[optional]*
+      description: |
+        The programming languages that the tool is primarily used with. 
+        Multiple languages separated by commas. Leave blank if the tool is not language-specific or essentials.
+      placeholder: "Ex: JavaScript, Python, Java"
+    validations:
+      required: false
