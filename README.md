@@ -6,9 +6,7 @@
 - [🎯 Awesome Programming Resources 🚀](#-awesome-programming-resources-)
   - [Contents](#contents)
   - [👨‍💻 Languages](#-languages)
-  - [🛠️ Frameworks](#️-frameworks)
-  - [📚 Libraries](#-libraries)
-  - [🛠️ Tools](#️-tools)
+  - [🛠️ Essential Tools](#️-essential-tools)
   - [🏫 Resources](#-resources)
   - [🤝 Contributing](#-contributing)
   - [📄 License](#-license)
@@ -17,14 +15,8 @@
 - [![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)](/go/readme.md)
 - [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)](/javascript/readme.md)
 
-## 🛠️ Frameworks
-*Popular frameworks for different languages will be listed here*
-
-## 📚 Libraries
-*Useful libraries and packages will be listed here*
-
-## 🛠️ Tools
-*Development tools and utilities will be listed here*
+## 🛠️ Essential Tools
+Helpful tools for coding, testing, deployment, and more. See all tools [here](./essentials)
 
 ## 🏫 Resources
 *Learning resources, documentation, and tutorials will be listed here*
