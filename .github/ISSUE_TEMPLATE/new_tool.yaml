@@ -1,7 +1,7 @@
 name: New Tool List
 description: Add a new list to awesome tools for software developers.
 title: "[New Tool]: "
-labels: ["enchancement"]
+labels: ["enhancement", "new tool"]
 assignees:
   - evilmagics
 body:
@@ -9,6 +9,8 @@ body:
     attributes:
       value: |
         Tell world your favorite or useful tools, libraries, frameworks, or any other tools that you think are awesome.
+
+        Please follow the template to fill title: **[New Tool]: {Tool Name}**
   - type: input
     id: tool-name
     attributes:
@@ -39,12 +41,13 @@ body:
       label: Category
       description: |
         Type helps categorize tools based on their functionality or purpose. 
+
         These categories can vary depending on the context and the specific tools being categorized.
         Multiple categories separated by commas. Use maximum 3 categories.
       placeholder: API Management
     validations:
       required: true
-  - type: textarea
+  - type: input
     id: tool-url
     attributes:
       label: URL
@@ -54,12 +57,13 @@ body:
       placeholder: "Ex: https://www.postman.com/"
     validations:
       required: true
-  - type: textarea
+  - type: input
     id: tool-language
     attributes:
       label: Language *[optional]*
       description: |
         The programming languages that the tool is primarily used with. 
+
         Multiple languages separated by commas. Leave blank if the tool is not language-specific or essentials.
       placeholder: "Ex: JavaScript, Python, Java"
     validations:
