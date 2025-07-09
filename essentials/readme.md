@@ -79,6 +79,11 @@ A curated list of awesome essentials frameworks, libraries, software and resourc
 - [MemSQL](https://www.memsql.com/) - MemSQL is a fast, distributed SQL database that combines the speed of in-memory with the scale of disk.
 - [CrateDB](https://crate.io/) - CrateDB is a distributed SQL database that makes it simple to store and analyze massive amounts of machine data in real-time.
 - [DuckDB](https://duckdb.org/) - DuckDB is an in-process SQL OLAP database management system.
+- [ClickHouse](https://clickhouse.com/) - ClickHouse is a column-oriented database management system that allows generating analytical data reports in real time.
+- [QuestDB](https://questdb.io/) - QuestDB is an open source SQL database designed to process time series data, faster.
+- [MonetDB](https://www.monetdb.org/) - MonetDB is a relational database management system optimized for online analytical processing of large volumes of data.
+- [Apache HBase](https://hbase.apache.org/) - Apache HBase is the Hadoop database, a distributed, scalable, big data store.
+- [PocketBase](https://pocketbase.io/) - PocketBase is a lightweight, high-performance API backend for your mobile, web, and Flutter apps.
 
 ### 🚀 CI/CD
 - [Docker](https://www.docker.com/) - Docker is a set of platform as a service products that use OS-level virtualization to deliver software in packages called containers.
