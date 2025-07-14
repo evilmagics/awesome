@@ -17,6 +17,7 @@ A curated list of awesome essentials frameworks, libraries, software and resourc
     - [🎨 Icons](#-icons)
     - [📊 Monitoring](#-monitoring)
     - [📝 Logging](#-logging)
+    - [📝 Terminals](#-terminals)
     - [🎨 UI Kits](#-ui-kits)
     - [🔄 Version Control](#-version-control)
 
@@ -32,6 +33,7 @@ A curated list of awesome essentials frameworks, libraries, software and resourc
 - [Continue](https://www.continue.dev/) - Continue is the open-source AI code assistant that puts you in control. Customize everything, run anywhere, and build infrastructure that gets better over time.
 - [Tabby](https://www.tabbyml.com/) - Tabby is an open-source AI coding assistant, designed to bring the power of AI to your development workflow while keeping you in control.
 - [Pythagora](https://www.pythagora.ai/) - World's First All-In-One AI Development Platform. Specs in seconds, frontend in minutes, backend in hours.
+- [Qodo](https://qodo.ai/) - Review Smart, Automate Dev Workflows, Code Better. They work where you do, across Git platforms, IDEs, and now your terminal.
 
 ### 🔌 API Management
 - [Postman](https://www.postman.com/) - Postman is an API platform for building and using APIs. Postman simplifies each step of the API lifecycle and streamlines collaboration so you can create better APIs—faster.
@@ -140,6 +142,19 @@ A curated list of awesome essentials frameworks, libraries, software and resourc
 - [Datadog](https://www.datadoghq.com/) - Modern monitoring & security. See inside any stack, any app, at any scale, anywhere.
 - [Dynatrace](https://www.dynatrace.com/) - Understand your business like never before. Transform complexity into your greatest asset with the leader in AI-powered observability.
 
+
+### 📝 Terminals
+- [iTerm2](https://iterm2.com/) - iTerm2 is a replacement for Terminal and the successor to iTerm. It works on Macs with macOS 10.10 or newer.
+- [Hyper](https://hyper.is/) - A terminal built on web technologies.
+- [WezTerm](https://wezfurlong.org/wezterm/) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust.
+- [Alacritty](https://alacritty.org/) - Alacritty is a modern terminal emulator that comes with sensible defaults, but allows for extensive configuration.
+- [Tabby](https://tabby.sh/) - A terminal for a more modern age.
+- [Aider](https://github.com/paul-gauthier/aider) - AI pair programming in your terminal.
+- [Wave](https://www.waveterm.dev/) - Wave is an open-source terminal with superpowers, integrating file previews, file editing, AI, web browsing, and workspace organization.
+- [Kitty](https://sw.kovidgoyal.net/kitty/) - The fast, feature-rich, GPU based terminal emulator.
+- [Termius](https://termius.com/) - Modern SSH Client. Built for Productivity and Collaboration.
+- [Warp](https://www.warp.dev/) - Warp is the fastest way to build with multiple AI agents—from writing code to shipping it. The best overall coding and terminal agent.
+- 
 
 ### 🎨 UI Kits
 - [Pattern Craft](https://patterncraft.fun/) - Craft Beautiful Patterns Backgrounds. Professional-grade background patterns and gradients. Easily copy the code and seamlessly integrate it into your projects. Crafted with modern CSS and Tailwind.
